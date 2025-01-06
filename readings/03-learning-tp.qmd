@@ -1,8 +1,9 @@
 ---
-title: "📖 Learning to Use TinkerPlots&trade;"
+title: "Learning to Use TinkerPlots&trade;"
 format:
   html:
     css: ["../assets/sticky-notes.css"]
+    highlight-style: "a11y-dark"
 date: today
 ---
 

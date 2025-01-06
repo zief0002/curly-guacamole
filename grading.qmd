@@ -35,7 +35,7 @@ If you arrive late for a quiz, or have missed previous class periods, you may be
 
 Exit tickets will be given in each class session. The exit tickets will make up 20% of your grade. The "ticket" consists of a single question designed to assess your knowledge about, or have you reflect on the day's class content. These questions are to be completed individually. The exit tickets are not marked right/wrong, but are based on whether or not you complete the ticket.
 
-If you miss class for a University approved reason (see *Policy for Missing Class and Making up Missed/Late Work*), you can make-up the exit ticket for that day by submitting the completed class activity for the day you missed. This will need to be submitted by the next class period unless you have previously made arrangements with the instructor. If you cannot complete the activity prior to the next class, you need to email the instructor prior to that class to receive an extension. Whether you will receive an extension is at the discretion of the instructor.
+If you miss class for a [University approved reason](https://policy.umn.edu/education/makeupwork), you can make-up the exit ticket for that day by submitting the completed class activity for the day you missed. This will need to be submitted by the next class period unless you have previously made arrangements with the instructor. If you cannot complete the activity prior to the next class, you need to email the instructor prior to that class to receive an extension. Whether you will receive an extension is at the discretion of the instructor. For further detail see the [Class Policy for Missing Class and Making up Missed/Late Work](class-policies.html).
 
 <br />
 
@@ -50,6 +50,17 @@ Engaging in active class participation is an important part of taking ownership 
 ### Extra Credit Policy
 
 There is no extra credit in this course.
+
+<br />
+
+
+:::stress
+### Stress Management
+
+Stress management is an important piece of the skill set needed for success in college. Pet Away Worry & Stress (PAWS) is one of the many resources available to students. Find out more at [https://boynton.umn.edu/paws](https://boynton.umn.edu/paws). 
+
+<p style="font-size:70%;">You can follow Tilly the Therapy Chicken on Twitter (@TherapyChicken).</p>
+:::
 
 <br />
 

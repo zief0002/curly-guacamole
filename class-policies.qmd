@@ -4,19 +4,30 @@ title: "Class Policies"
 
 
 :::absence
-### Policy for Missing Class and Making up Missed/Late Work
+### Attendance Policy and Making up Missed/Late Work
 
-Students are responsible for planning their schedules to avoid excessive conflicts with course requirements and must notify the instructor of unavoidable scheduling conflicts as early as possible. For circumstances where absences are unavoidable, accommodations for makeup work will be made according to [University Policy](https://policy.umn.edu/education/makeupwork). If you miss class:
+In a collaborative learning environment, *attendance is critical*. Missing class does not only affect you. It also affects your classmates. Because of the adverse impact missing class may have on your classmates, the instructor reserves the right to re-assign groups on the day of the quiz, or have you work independently. Please be on time. Showing up late to class is not only disruptive, it is disrespectful to your classmates. When you show up late, your group needs to spend valuable time catching you up on what you missed. If you show up late for a group quiz, you may be required to take the quiz by yourself.
+
+If you miss class:
 
 - Email the instructor as soon as you know you will be missing class.
+- Email your group members so they know you will also be absent.
+- Complete the class activity that you missed on your own. (If you want credit for the day's exit ticket, submit your completed activity to the instructor via email prior to the next class. If you cannot complete the activity prior to the next class, you need to email the instructor prior to that class to receive an extension. Whether you will receive an extension is at the discretion of the instructor.)
 - Students are expected to obtain notes from a classmate of class material missed.
-- Please note that I will not be recording class sessions at the request of individual students, nor will I be Zooming students in to the class. Although, if you can arrange it with a classmate, they can Zoom you in.
+- Please note that I will not recording class sessions at the request of individual students, nor will I Zoom students in to the class. Although, if you can arrange it with your group, they can Zoom you in.
   + If you are zooming in a classmate, please let the instructor know.
-- If you will be gone the day an assignment is due, you will need to make arrangements with the instructor about when you will turn in the assignment. 
-
-If you do not communicate with the instructor and make arrangements for turning in work when you are absent, the assignment will receive a 0. 
+- If you are absent on the day a quiz or test is due, you must provide documentation explaining your absence for the instructor to determine whether you will be allowed to submit that test later or take a make-up quiz. This will be at the instructor’s discretion and will be evaluated on a case-by-case basis  (see [University Policy](https://policy.umn.edu/education/makeupwork)). If you miss a group quiz and do not communicate with the instructor, you will receive a 0 on that quiz.
 :::
 
+
+<br />
+
+
+:::cellphone
+### Cellphone and Headphones Policy
+
+In the classroom please put your cellphones and headphones in your backpack. The evidence on the link between social media use and mental health is becoming pretty overwhelming, and rather than tuning out the world, or watching yet another inane Tik-Tok video, take the time in our classroom to interact with other people in the class. Not only might you make new friends, but you will also be improving your mental (and possibly physical) well-being.
+:::
 
 <br />
 
@@ -24,17 +35,9 @@ If you do not communicate with the instructor and make arrangements for turning 
 :::ai
 ### ChatGPT and Other AI Policy
 
-Artificial intelligence (AI) language models, such as ChatGPT, are emerging tools that we will all need to consider in the next few years. These tools may be used to help you write R syntax, but not for answering any of the other questions on the assignment. If you are in doubt as to whether you are using AI language models appropriately in this course, I encourage you to discuss your situation with me or the TA. If you do use any AI to help write syntax for any of the assignment questions you need to do the following:
+Artificial intelligence (AI) language models, such as ChatGPT, may not be used for answering any of the questions on the individual exams, group quizzes, or exit tickets. If you are in doubt as to whether you are using AI language models appropriately in this course, I encourage you to discuss your situation with me or the TA.
 
-- Cite this in the assignment; failure to do so is in violation of the academic integrity policy at UMN. *Please include a paragraph at the end of any assignment that uses AI explaining what you used the AI for and what prompts you used to get the results.* More examples of citing AI language models are available at: <https://libguides.umn.edu/chatgpt>.
-- Include a statement about what you will do to offset the environmental impact of the energy use incurred by using the AI. Be specific in this statement. For example: I will bike to school for the next week (Jan. 01--Jan 07) rather than drive or bus.
-
-You are also responsible for ensuring any syntax composed by AI is correct. I would not trust anything AI says. If it gives you a number, fact, or code, assume it is wrong unless you either know the answer or can check in with another source. For this reason, using AI works best for topics you understand and can quality check. Here are a couple of other things to be aware of if you decide to use AI:
-
-- The environmental impact of AI should not be ignored. The building and usage of AI tools consumes a lot of energy (see [here](https://www.nature.com/articles/s42256-020-0219-9) and [here](https://www.cfr.org/blog/artificial-intelligences-environmental-costs-and-promise)).
-- The development of AI has been associated with labor abuse and other dicey ethical issues (see [here](https://www.aljazeera.com/opinions/2023/1/23/sweatshops-are-making-our-digital-age-work) and [here](https://www.rollingstone.com/culture/culture-features/women-warnings-ai-danger-risk-before-chatgpt-1234804367/)).
-
-If you are caught using AI to answer questions on any of the assignments, you will be given a 0 on that assignment and a Scholastic Dishonesty Report Form will be filled out and reported to the [Office of Community Standards](https://communitystandards.umn.edu/). Depending on the severity of the offense, the instructor also reserves the right to give you an "F" in the course.
+If you are caught using AI to answer questions on any of the exams or quizzes, you will be given a 0 on that exam/quiz and a Scholastic Dishonesty Report Form will be filled out and reported to the [Office of Community Standards](https://communitystandards.umn.edu/). Depending on the severity of the offense, the instructor also reserves the right to give you an "F" in the course.
 :::
 
 <br />
@@ -43,9 +46,7 @@ If you are caught using AI to answer questions on any of the assignments, you wi
 :::technology
 ### Technology Policy
 
-The course uses technology on a regular basis during both instruction and assessments (e.g., homework assignments, exams, etc.). Student difficulty with obtaining or operating the various software programs and technologies---including printer trouble---will not be acceptable as an excuse for late work. Due to the variation in computer types and systems, the instructor or TA may not be able to assist in trouble shooting all problems you may have.
-
-<!-- <p style="font-size:70%;">gg_goldy created by Rita Sandidge, CSPP</p> -->
+The course uses technology on a regular basis during both instruction and assessments (e.g., homework assignments, exams, etc.). **Student difficulty with obtaining or using TinkerPlots will not be acceptable as an excuse for late work.** Due to the variation in computer types and systems, the instructor or TA may not be able to assist in trouble shooting all problems you may have.
 :::
 
 <br />
@@ -55,8 +56,6 @@ The course uses technology on a regular basis during both instruction and assess
 ### CEHD Policy on Recording Classes
 
 All class sessions may be recorded by the instructor using the procedures in the CEHD Policy on Recording Classes, with or without prior notice. Students should assume that a class session is being recorded unless otherwise notified. No person (student or otherwise) may record a class without express written permission from the instructor or an authorized administrator implementing a disability accommodation. All permitted recordings are governed by this policy’s limits on distribution and redistribution of recordings.
-
-<!-- <p style="font-size:70%;">gg_goldy created by Rita Sandidge, CSPP</p> -->
 :::
 
 <br />

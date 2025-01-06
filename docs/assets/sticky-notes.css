@@ -73,57 +73,49 @@
   }  
   
   
-/* -----------Yellow Interpretation Note------------- */
+/* -----------Syllabus Index------------- */
 
-.interpret {
+.slo {
   padding: 1em;
   margin: 1em 0;
-  padding-left: 100px;
-  background-image: url("../img/interpret.png");
-  background-size: 70px;
-  background-repeat: no-repeat;
-  background-position: 15px 50%;
-  min-height: 120px;
-  color: #264653;
-  background-color: #fffeaaab;
-  border: solid 3px #264653;
-  border-radius: 25px;
-  }  
-
-.interpret h5{
-  margin-bottom: -20px;
-}
-
-/* -----------Set font size for math ------------- */
-
-.MathJax {
-    font-size: 100% !important;
-}
-
-
-
-/* -----------Syllabus Inclusion Note------------- */
-
-.inclusion {
-  padding: 1em;
-  margin: 1em 0;
-  padding-left: 100px;
-  background-image: url("../img/taylor-06.png");
-  background-size: 100px;
-  background-repeat: no-repeat;
-  background-position: 5px 50px;
-  min-height: 120px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  display: table;
+  vertical-align: middle;
+  color: #000;
+  background-color: #fffdc0;
+  border: solid 3px #ffb71e;
   box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
-  background-color: #dae7ea;
   border-top-left-radius: 255px 15px;
   border-top-right-radius: 15px 225px;
   border-bottom-right-radius: 225px 15px;
   border-bottom-left-radius:15px 255px;
-  border: solid 5px #41403E;
+  }  
+  
+  
+.liberaled {
+  padding: 1em;
+  margin: 1em 0;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  display: table;
+  vertical-align: middle;
+  color: #000;
+  background-color: #E3EFF2;
+  border: solid 3px #5b0013;
+  box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
+  border-top-left-radius: 255px 15px;
+  border-top-right-radius: 15px 225px;
+  border-bottom-right-radius: 225px 15px;
+  border-bottom-left-radius:15px 255px;
   }  
   
 
-/* -----------Syllabus Stress Management Note------------- */
+/* -----------Syllabus Grading------------- */
 
 .stress {
   padding: 1em;
@@ -135,94 +127,100 @@
   background-position: 15px 50px;
   min-height: 120px;
   box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
-  background-color: #dae7ea;
+  background-color: #E3EFF2;
+  border: solid 3px #5b0013;
   border-top-left-radius: 255px 15px;
   border-top-right-radius: 15px 225px;
   border-bottom-right-radius: 225px 15px;
   border-bottom-left-radius:15px 255px;
-  border: solid 5px #41403E;
   }  
 
 
-/* -----------Syllabus Technology Note------------- */
+
+  
+
+/* -----------Syllabus Class Policies------------- */
+
+.absence {
+  margin: 1em 0;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: table;
+  vertical-align: middle;
+  color: #000;
+  background-color: #fffdc0;
+  border: solid 3px #ffb71e;
+  box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
+  border-top-left-radius: 255px 15px;
+  border-top-right-radius: 15px 225px;
+  border-bottom-right-radius: 225px 15px;
+  border-bottom-left-radius:15px 255px;
+  }  
+  
+  
+.cellphone {
+  margin: 1em 0;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: table;
+  vertical-align: middle;
+  color: #000;
+  background-color: #E3EFF2;
+  border: solid 3px #5b0013;
+  box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
+  border-top-left-radius: 255px 15px;
+  border-top-right-radius: 15px 225px;
+  border-bottom-right-radius: 225px 15px;
+  border-bottom-left-radius:15px 255px;
+  }  
+
+
+.ai {
+  margin: 1em 0;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: table;
+  vertical-align: middle;
+  color: #000;
+  background-color: #fffdc0;
+  border: solid 3px #ffb71e;
+  box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
+  border-top-left-radius: 255px 15px;
+  border-top-right-radius: 15px 225px;
+  border-bottom-right-radius: 225px 15px;
+  border-bottom-left-radius:15px 255px;
+  }  
+
 
 .technology {
   padding: 1em;
   margin: 1em 0;
-  padding-left: 100px;
-  background-image: url("../img/taylor-04.png");
-  background-size: 70px;
-  background-repeat: no-repeat;
-  background-position: 10px 40px;
-  min-height: 120px;
+  padding-left: 15px;
+  display: table;
+  vertical-align: middle;
+  color: #000;
+  background-color: #E3EFF2;
+  border: solid 3px #5b0013;
   box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
-  background-color: #dae7ea;
   border-top-left-radius: 255px 15px;
   border-top-right-radius: 15px 225px;
   border-bottom-right-radius: 225px 15px;
   border-bottom-left-radius:15px 255px;
-  border: solid 5px #41403E;
   }  
   
-
-/* -----------Syllabus CEHD Recording Note------------- */
 
 .recording {
   padding: 1em;
   margin: 1em 0;
-  padding-left: 100px;
-  background-image: url("../img/elliott.png");
-  background-size: 70px;
-  background-repeat: no-repeat;
-  background-position: 15px 50px;
-  min-height: 120px;
+  padding-left: 15px;
+  display: table;
+  vertical-align: middle;
+  color: #000;
+  background-color: #fffdc0;
+  border: solid 3px #ffb71e;
   box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
-  background-color: #f5efe4;
   border-top-left-radius: 255px 15px;
   border-top-right-radius: 15px 225px;
   border-bottom-right-radius: 225px 15px;
   border-bottom-left-radius:15px 255px;
-  border: solid 5px #41403E;
-  }  
-  
-
-/* -----------Syllabus Absence Policy Note------------- */
-
-.absence {
-  padding: 1em;
-  margin: 1em 0;
-  padding-left: 100px;
-  background-image: url("../img/olivia2.png");
-  background-size: 100px;
-  background-repeat: no-repeat;
-  background-position: 5px 50px;
-  min-height: 120px;
-  box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
-  background-color: #dae7ea;
-  border-top-left-radius: 255px 15px;
-  border-top-right-radius: 15px 225px;
-  border-bottom-right-radius: 225px 15px;
-  border-bottom-left-radius:15px 255px;
-  border: solid 5px #41403E;
-  }  
-
-
-/* -----------Syllabus AI Note------------- */
-
-.ai {
-  padding: 1em;
-  margin: 1em 0;
-  padding-left: 100px;
-  background-image: url("../img/slash.png");
-  background-size: 100px;
-  background-repeat: no-repeat;
-  background-position: 5px 50px;
-  min-height: 120px;
-  box-shadow: 20px 38px 34px -26px hsla(0,0%,0%,.2);
-  background-color: #f5efe4;
-  border-top-left-radius: 255px 15px;
-  border-top-right-radius: 15px 225px;
-  border-bottom-right-radius: 225px 15px;
-  border-bottom-left-radius:15px 255px;
-  border: solid 5px #41403E;
   }  

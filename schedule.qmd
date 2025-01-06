@@ -3,529 +3,408 @@ title: "Calendar"
 ---
 
 
-The calendar below lists the tentative course topics. The dates listed are subject to change at the instructor's discretion.
+The calendar below lists the tentative dates of the readings, group quizzes, and course activities. Exam due dates and quiz dates are also provided. All individual exams are due by 9:45am. These dates are subject to change at the instructor's discretion.
 
-As part of the course, there are several articles, papers and technical reports that you will need to read during the semester. Most of the articles themselves are accessible through the [University of Minnesota library website](http://www.lib.umn.edu). In order to access the full text of some of the articles, you will need to log in using your University x500 username and password.
+As part of the course, there may be articles, papers, etc. that you will need to read during the semester. Most of the articles themselves are accessible through the [University of Minnesota library website](http://www.lib.umn.edu). In order to access the full text of some of the articles, you will need to log in using your University x500 username and password. More detailed information, including references or links to specific readings, are linked under the day's "Reading".
 
 <br /><br />
 
 
 <table class="table">
-<caption>Schedule of Content for EPSY 8252, including Readings, Notes, QMD Documents, and R Script Files</caption>
+<caption>Schedule of Content for EPSY 3264, including topics, readings, class activities, and assessments.</caption>
 <thead>
 <tr>
-<th style="width:10%;" id="blank"></th>
+<th style="width:5%;" id="blank"></th>
+<th style="width:10%; text-align:center;" id="day">Day</th>
 <th style="width:10%;" id="date">Date</th>
-<th style="width:10%;text-align:center" id="todo">To-Do</th>
-<th style="width:40%;" id="topic">Topic</th>
-<th style="width:10%;text-align:center" id="notes">Notes</th>
-<th style="width:10%;text-align:center" id="qmd">QMD</th>
-<th style="width:10%;text-align:center" id="script">Script</th>
+<th style="width:35%;" id="reading">Reading</th>
+<th style="width:50%;" id="activity">Class Activity/Assessment</th>
 </tr>
 </thead>
 
 <tbody>
 
-<!-- ---------------------------------- -->
-<!-- UNIT 00: WELCOME AND REVIEW    -->
-<!-- ---------------------------------- -->
-
 <tr>
-<td colspan="7" scope="colgroup" headers="blank todo topic notes qmd script"><b>UNIT 00: WELCOME AND REVIEW</b></td>
-</tr>
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td headers="date">Jan. 22</td>
-<td align="center" style="vertical-align:middle;" headers="todo"></td>
-<td headers="topic">Welcome to Epsy 8252</td>
-<td align="center" style="vertical-align:middle;" headers="notes"></td>
-<td align="center" style="vertical-align:middle;" headers="qmd"></td>
-<td align="center" style="vertical-align:middle;" headers="script"></td>
-</tr>
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" headers="date">Jan. 27</td>
-<td align="center" style="vertical-align:middle;" headers="todo">
-  [{{< iconify game-icons:read size=30px >}}](readings/01-update-tech.html)
+<td style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">1</td>
+<td style="vertical-align:middle;" headers="date">Jan. 22</td>
+<td style="vertical-align:middle;" headers="reading">
+  [Introduction](https://zief0002.github.io/statistical-thinking/introduction.html)
 </td>
-<td style="vertical-align:middle;" headers="topic">Regression Review</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  [{{< iconify fa6-solid:file-pen size=25px title="Worksheet">}}](worksheets/worksheet-01-regression-review.html)<br/><br />
-  [{{< iconify fa6-solid:file-pdf size=25px title="Regression Review Slides">}}](files/01-regression-review.pdf)
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd"></td>
-<td align="center" style="vertical-align:middle;" headers="script">
-  [{{< iconify file-icons:r size=30px title="Regression Review R Script File">}}](scripts/01-regression-review.R)
-</td>
+<td style="vertical-align:middle;" headers="activity">Welcome to 3264!</td>
 </tr>
 
 
-<!-- ---------------------------------- -->
-<!-- UNIT 01: TOOLS FOR REPRODUCIBILITY -->
-<!-- ---------------------------------- -->
+
+<!-- Unit 01: MODELING AND SIMULATION -->
 
 <tr>
-<td colspan="7" scope="colgroup" headers="blank todo topic notes qmd script"><b>UNIT 01: TOOLS FOR REPRODUCIBILITY</b></td>
+<td style="height: 50px; vertical-align: bottom;" colspan="5" headers="blank day date reading activity">**UNIT 01: MODELING AND SIMULATION**</td>
+</tr>
+
+
+<tr>
+<td style="vertical-align:middle;" rowspan=2 headers="blank"></td>
+<td align="center" style="vertical-align:middle;" rowspan=2 headers="day">2</td>
+<td style="vertical-align:middle;" rowspan=2 headers="date">Jan. 27</td>
+<td style="vertical-align:middle;" rowspan=2 headers="reading">
+  [Modeling &amp; Simulation](https://zief0002.github.io/statistical-thinking/modeling-simulation.html)
+</td>
+<td style="vertical-align:middle;" headers="activity">Spotify Playlists</td>
 </tr>
 
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td style="background-color: #fffdc0" headers="activity">**Exit Ticket: Download TinkerPlots**</td>
+</tr>
+
+
+<tr>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">3</td>
 <td style="vertical-align:middle;" headers="date">Jan. 29</td>
-<td align="center" style="vertical-align:middle;" headers="todo">
-  [{{< iconify game-icons:read size=30px >}}](readings/02-project-organization.html)
+<td style="vertical-align:middle;">
+  [Watch TinkerPlots&trade; Basics video](readings/03-learning-tp.html)
 </td>
-<td style="vertical-align:middle;" headers="topic">Project Organization</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  [{{< iconify tabler:file-type-html size=30px title="Project Organization Notes">}}](notes/02-project-organization.html)
+<td>
+  [Learning to Use TinkerPlots&trade;](assignments/00-learning-to-use-tinkerplots.html)
 </td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-  [{{< iconify simple-icons:quarto size=25px title="Project Organization QMD File" >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/02-project-organization.qmd)
-</td>
-<td align="center" style="vertical-align:middle;" headers="script"></td>
 </tr>
 
+
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">4</td>
 <td style="vertical-align:middle;" headers="date">Feb. 03</td>
-<td align="center" style="vertical-align:middle;" headers="todo">
-  [{{< iconify game-icons:read size=30px >}}](readings/03-introduction-to-quarto.html)
+<td style="vertical-align:middle;">
+  [Generating Data from Models](https://zief0002.github.io/statistical-thinking/generating-data-from-models.html)
 </td>
-<td style="vertical-align:middle;" headers="topic">Introduction to Quarto</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  [{{< iconify fa6-solid:file-pen size=25px title="Introduction to Quarto Worksheet" >}}](worksheets/worksheet-03-hello-world-quarto.html)<br/><br />
-  [{{< iconify tabler:file-type-html size=30px title="Introduction to Quarto Notes" >}}](notes/03-introduction-to-quarto.html)
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   [{{< iconify simple-icons:quarto size=25px title="Worksheet QMD File" >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/worksheets/worksheet-03-hello-world-quarto.qmd)<br/><br />
-   [{{< iconify simple-icons:quarto size=25px  title="Introduction to Quarto QMD File" >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/03-introduction-to-quarto.qmd)
-</td>
-<td align="center" style="vertical-align:middle;" headers="script"></td>
+<td style="vertical-align:middle;">Generating Random Data: Pet Factory</td>
 </tr>
 
 
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">5</td>
 <td style="vertical-align:middle;" headers="date">Feb. 05</td>
-<td align="center" style="vertical-align:middle;" headers="todo">
-  [{{< iconify game-icons:read size=30px >}}](readings/04-more-quarto.html)
+<td style="vertical-align:middle;">
+  [Monte Carlo Simulation](https://zief0002.github.io/statistical-thinking/monte-carlo-simulation.html)
 </td>
-<td style="vertical-align:middle;" headers="topic">More Quarto</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  [{{< iconify fa6-solid:file-pen size=25px title="Worksheet">}}](worksheets/worksheet-04-more-quarto.html)<br/><br />
-  [{{< iconify tabler:file-type-html size=30px title="More Quarto Notes">}}](notes/04-01-more-quarto.html)<br/><br />
-  [{{< iconify tabler:file-type-html size=30px title="Creating Tables Notes">}}](notes/04-02-creating-tables.html)
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   [{{< iconify simple-icons:quarto size=25px title="Worksheet QMD File" >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/worksheets/worksheet-04-more-quarto.qmd)<br/><br />
-   [{{< iconify simple-icons:quarto size=25px title="More Quarto QMD File">}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/04-01-more-quarto.qmd)<br/><br />
-   [{{< iconify simple-icons:quarto size=25px title="Creating Tables QMD File" >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/04-02-creating-tables.qmd)
-</td>
-<td align="center" style="vertical-align:middle;" headers="script"></td>
+<td style="vertical-align:middle;">Introduction to Monte Carlo Simulation</td>
 </tr>
 
-<!-- ------------------------------------- -->
-<!-- UNIT 02: MODEL SELECTION AND EVIDENCE -->
-<!-- ------------------------------------- -->
 
 <tr>
-<td colspan="7" scope="colgroup" headers="blank todo topic notes qmd script"><b>UNIT 02: MODEL SELECTION AND EVIDENCE</b></td>
-</tr>
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">6</td>
 <td style="vertical-align:middle;" headers="date">Feb. 10</td>
-<td align="center" style="vertical-align:middle;" headers="todo">
-  [{{< iconify game-icons:read size=30px >}}](readings/05-mathematical-foundations-probability.html)
-</td>
-<td style="vertical-align:middle;" headers="topic">Mathematical Foundations: Probability Density</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  [{{< iconify tabler:file-type-html size=30px title="Mathematical Foundations: Probability Density Notes">}}](notes/05-mathematical-foundations-probability-density.html)
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   [{{< iconify simple-icons:quarto size=25px title="Mathematical Foundations: Probability Density QMD File" >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/05-mathematical-foundations-probability-density.qmd)
-</td>
-<td align="center" style="vertical-align:middle;" headers="script">
-  [{{< iconify file-icons:r size=30px title="Mathematical Foundations: Probability Density R Script File">}}](scripts/05-mathematical-foundations-probability-density.R)
-</td>
+<td style="vertical-align:middle;"></td>
+<td style="vertical-align:middle;">Automating the Simulation Process</td>
 </tr>
 
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<tr style="background-color: #fffdc0;">
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">7</td>
 <td style="vertical-align:middle;" headers="date">Feb. 12</td>
-<td align="center" style="vertical-align:middle;" headers="todo">
-  [{{< iconify game-icons:read size=30px >}}](readings/06-mathematical-foundations-logarithms.html)
-</td>
-<td style="vertical-align:middle;" headers="topic">Mathematical Foundations: Logarithms</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/06-mathematical-foundations-logarithms.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/06-mathematical-foundations-logarithms.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/06-mathematical-foundations-logarithms.R) -->
+<td style="vertical-align:middle;"></td>
+<td style="vertical-align:middle;">**Group Quiz 1**</td>
+</tr>
+
+
+<!-- Unit 02: MODELING SAMPLING VARIATION -->
+
+<tr>
+<td style="height: 50px; vertical-align: bottom;" colspan="5" headers="blank day date reading activity">**UNIT 02: MODELING SAMPLING VARIATION**</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;" rowspan=2 headers="blank"></td>
+<td align="center" style="vertical-align:middle;" rowspan=2 headers="day">8</td>
+<td style="vertical-align:middle;" rowspan=2 headers="date">Feb. 17</td>
+<td style="vertical-align:middle;" rowspan=2 headers="reading"></td>
+<td style="vertical-align:middle; background-color: #fffdc0;" headers="activity">
+<!-- **Individual Exam 1** [Closed] -->
+  [**Individual Exam 1**](https://docs.google.com/document/d/14icSqhEzHSNtTJeVjrVlW2vpACiF1l6EQEcPMH3TuZo/edit?usp=sharing) (due by 9:45am)
 </td>
 </tr>
 
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" headers="date">Feb. 17</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="todo"></td>
-<td style="vertical-align:middle;" rowspan="2" headers="topic">Likelihood: A Framework for Evidence</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="notes">
-  [{{< iconify tabler:file-type-html size=30px >}}](notes/04-likelihood-evidence.html)
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="qmd">
-   [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/04-likelihood-evidence.qmd)
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="script">
-  [{{< iconify file-icons:r size=30px >}}](scripts/04-likelihood-evidence.R)
-</td>
+<td style="vertical-align:middle;" headers="activity">Monday Breakups</td>
 </tr>
 
+
+
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">9</td>
 <td style="vertical-align:middle;" headers="date">Feb. 19</td>
-</tr>
-
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" headers="date">*Optional* </td>
-<td align="center" style="vertical-align:middle;" headers="todo"></td>
-<td style="vertical-align:middle;" headers="topic">Likelihood: A Framework for Estimation</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-   [{{< iconify tabler:file-type-html size=30px >}}](notes/04-optional-likelihood-estimation.html)
+<td style="vertical-align:middle;" headers="reading">
+  [Describing Distributions](https://zief0002.github.io/statistical-thinking/describing-distributions.html)
 </td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-  [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/04-optional-likelihood-estimation.qmd)
-</td>
-<td align="center" style="vertical-align:middle;" headers="script"></td>
-</tr>
-
-
-<!-- ------------------------------------- -->
-<!-- UNIT 03: DEALING WITH NONLINEARITY -->
-<!-- ------------------------------------- -->
-
-<tr>
-<td colspan="7" scope="colgroup" headers="blank todo topic notes qmd script"><b>UNIT 03: DEALING WITH NONLINEARITY</b></td>
+<td style="vertical-align:middle;" headers="activity">Features of Distributions</td>
 </tr>
 
 
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">10</td>
 <td style="vertical-align:middle;" headers="date">Feb. 24</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="todo">
-  <!-- [{{< iconify game-icons:read size=30px >}}](readings/05-polynomial-effects.html) -->
+<td style="vertical-align:middle;" headers="reading">
+  [Modeling Sampling Variation](https://zief0002.github.io/statistical-thinking/modeling-sampling-variation.html)
 </td>
-<td style="vertical-align:middle;" rowspan="2" headers="topic">Polynomial Effects</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/05-polynomial-effects.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/05-polynomial-effects.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/05-polynomial-effects.R) -->
-</td>
+<td style="vertical-align:middle;" headers="activity">Helper or Hinderer</td>
 </tr>
 
+
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">11</td>
 <td style="vertical-align:middle;" headers="date">Feb. 26</td>
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="activity">Comparing Handspans</td>
 </tr>
 
 
 <tr>
-<td colspan="7" scope="colgroup" headers="blank todo topic notes qmd script"><b>UNIT 02 (REVISITED): MODEL SELECTION AND EVIDENCE</b></td>
-</tr>
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">12</td>
 <td style="vertical-align:middle;" headers="date">Mar. 03</td>
-<td align="center" style="vertical-align:middle;" headers="todo">
-  <!-- [{{< iconify game-icons:read size=30px >}}](readings/06-information-criteria-and-model-selection.html) -->
-</td>
-<td style="vertical-align:middle;" headers="topic">Information Criteria and Model Selection</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/06-information-criteria-and-model-selection.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/06-information-criteria-and-model-selection.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/06-information-criteria-and-model-selection.R) -->
-</td>
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="activity">Lead Exposure in Children</td>
 </tr>
 
 
-<!-- ------------------------------------- -->
-<!-- UNIT 03 (REVISITED): DEALING WITH NONLINEARITY -->
-<!-- ------------------------------------- -->
-
-<tr>
-<td colspan="7" scope="colgroup" headers="blank todo topic notes qmd script"><b>UNIT 03 (REVISITED): DEALING WITH NONLINEARITY</b></td>
-</tr>
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<tr style="background-color: #fffdc0">
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">13</td>
 <td style="vertical-align:middle;" headers="date">Mar. 05</td>
-<td align="center" style="vertical-align:middle;" headers="todo"></td>
-<td style="vertical-align:middle;" headers="topic">Log-Transforming the Outcome</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/07-logarithmic-transformations-outcome.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/07-logarithmic-transformations-outcome.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/07-logarithmic-transformations-outcome.R) -->
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="activity">**Group Quiz 2**</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day"></td>
+<td style="vertical-align:middle;"headers="date">Mar. 10.</td>
+<td align="center" style="vertical-align:middle;" colspan=2 headers="reading activity">NO CLASS---Spring Break 🎊 🛌 🎉 </td>
+</tr>
+
+
+<tr>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day"></td>
+<td style="vertical-align:middle;"headers="date">Mar. 12.</td>
+<td align="center" style="vertical-align:middle;" colspan=2 headers="reading activity">NO CLASS---Spring Break 🎊 🛌 🎉 </td>
+</tr>
+
+<!-- Unit 03: EXPERIMENTAL VARIATION AND THE RANDOMIZATION TEST -->
+
+<tr>
+<td style="height: 50px; vertical-align: bottom;" colspan="5" headers="blank day date reading activity">
+  **UNIT 03: EXPERIMENTAL VARIATION AND THE RANDOMIZATION TEST**
 </td>
 </tr>
 
 
-
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" colspan=2 headers="date notes">Mar. 12&ndash;14</td>
-<td style="vertical-align:middle;" colspan=4 headers="topic qmd script">🎉🍹 SPRING BREAK &mdash; NO CLASS &nbsp; 🛌</td>
-</tr>
-
-
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" headers="date">Mar. 17</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="todo"></td>
-<td style="vertical-align:middle;" rowspan="2" headers="topic">Log-Transforming the Outcome</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/07-logarithmic-transformations-outcome.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/07-logarithmic-transformations-outcome.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/07-logarithmic-transformations-outcome.R) -->
+<td align="center" style="vertical-align:middle;" rowspan=2 headers="blank"></td>
+<td align="center" style="vertical-align:middle;" rowspan=2 headers="day">14</td>
+<td style="vertical-align:middle;" rowspan=2 headers="date">Mar. 17</td>
+<td style="vertical-align:middle;" rowspan=2 headers="reading"></td>
+<td style="background-color: #fffdc0" headers="activity">
+  <!-- **Individual Exam 2** [Closed] -->
+  [**Individual Exam 2**](https://docs.google.com/document/d/14icSqhEzHSNtTJeVjrVlW2vpACiF1l6EQEcPMH3TuZo/edit?usp=sharing) (due by 9:45am)
 </td>
 </tr>
 
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td style="vertical-align:middle;" headers="activity">Memorization</td>
+</tr>
+
+
+<tr>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">15</td>
 <td style="vertical-align:middle;" headers="date">Mar. 19</td>
+<td style="vertical-align:middle;" headers="reading">
+  [Experimental Variation and the Randomization Test](https://zief0002.github.io/statistical-thinking/experimental-variation-and-the-randomization-test.html)
+</td>
+<td style="vertical-align:middle;" headers="activity">Memorization with TinkerPlots</td>
 </tr>
 
 
+
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">16</td>
 <td style="vertical-align:middle;" headers="date">Mar. 24</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="todo"></td>
-<td style="vertical-align:middle;" rowspan="2" headers="topic">Log-Transforming the Predictor</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/08-logarithmic-transformations-predictor.html) -->
+<td style="vertical-align:middle;" headers="reading">
+  [Internal Validity Evidence and Random Assignment](https://zief0002.github.io/statistical-thinking/internal-validity-evidence-and-random-assignment.html)
 </td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/08-logarithmic-transformations-predictor.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/08-logarithmic-transformations-predictor.R) -->
-</td>
+<td style="vertical-align:middle;" headers="activity">Sleep Deprivation</td>
 </tr>
 
+
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">17</td>
 <td style="vertical-align:middle;" headers="date">Mar. 26</td>
+<td style="vertical-align:middle;" headers="reading">
+  [Quantifying Results: p-Value](https://zief0002.github.io/statistical-thinking/quantifying-results-p-value.html)
+</td>
+<td style="vertical-align:middle;" headers="activity">Contagious Yawns</td>
 </tr>
 
 
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">18</td>
 <td style="vertical-align:middle;" headers="date">Mar. 31</td>
-<td align="center" style="vertical-align:middle;" headers="todo"></td>
-<td style="vertical-align:middle;" headers="topic">Rule of the Bulge</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/09-rule-of-the-bulge.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/09-rule-of-the-bulge.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/09-rule-of-the-bulge.R) -->
-</td>
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="acivity">Speed Skating</td>
 </tr>
 
 
-<!-- -------------------------------------- -->
-<!-- Unit 04: Modeling Dichotomous Outcomes -->
-<!-- -------------------------------------- -->
-
-<tr>
-<td colspan="7" scope="colgroup" headers="blank todo topic notes qmd script"><b>UNIT 04: MODELING DICHOTOMOUS OUTCOMES</b></td>
-</tr>
-
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" headers="date">*Optional*</td>
-<td align="center" style="vertical-align:middle;" headers="todo"></td>
-<td style="vertical-align:middle;" headers="topic">Linear Probability Model</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/10-optional-linear-probability-model.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/10-optional-linear-probability-model.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/10-optional-linear-probability-model.R) -->
-</td>
-</tr>
-
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<tr style="background-color: #fffdc0">
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">19</td>
 <td style="vertical-align:middle;" headers="date">Apr. 02</td>
-<td align="center" style="vertical-align:middle;" headers="todo"></td>
-<td style="vertical-align:middle;" headers="topic">Logistic Regression Model</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/10-optional-linear-probability-model.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/10-optional-linear-probability-model.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/10-optional-linear-probability-model.R) -->
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="activity">**Group Quiz 3**</td>
+</tr>
+
+
+<!-- Unit 04: SAMPLING VARIATION AND THE BOOTSTRAP TEST -->
+
+<tr>
+<td style="height: 50px; vertical-align: bottom;" colspan="5" headers="blank day date reading activity">
+  **UNIT 04: SAMPLING VARIATION AND THE BOOTSTRAP TEST**
 </td>
 </tr>
 
 
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" headers="date">Apr. 07</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="todo"></td>
-<td style="vertical-align:middle;" rowspan="2" headers="topic">More Logistic Regression</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/08-logarithmic-transformations-predictor.html) -->
+<td align="center" style="vertical-align:middle;" rowspan=2 headers="blank"></td>
+<td align="center" style="vertical-align:middle;" rowspan=2 headers="day">20</td>
+<td style="vertical-align:middle;" rowspan=2 headers="date">Apr. 07</td>
+<td style="vertical-align:middle;" rowspan=2 headers="reading">
+  [Sampling Variation and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/sampling-variation-and-the-bootstrap-test.html)
 </td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/08-logarithmic-transformations-predictor.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/08-logarithmic-transformations-predictor.R) -->
+<td style="background-color: #fffdc0" headers="activity">
+  <!-- **Individual Exam 3** [Closed]  -->
+ [**Individual Exam 3**](https://docs.google.com/document/d/11YlNAgR1mrss81v5YEJcozwdaF46cRil/edit?usp=sharing&ouid=100796696879019680143&rtpof=true&sd=true) (due by 9:45am)
 </td>
 </tr>
 
+
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td headers="activity">Gettysburg Address</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">21</td>
 <td style="vertical-align:middle;" headers="date">Apr. 09</td>
-</tr>
-
-<!-- ----------------------------------------------- -->
-<!-- Unit 05: Linear Mixed-Effects Regression Models -->
-<!-- ----------------------------------------------- -->
-
-<tr>
-<td colspan="7" scope="colgroup" headers="blank todo topic notes qmd script"><b>UNIT 05: LINEAR MIXED-EFFECTS REGRESSION MODELS</b></td>
+<td style="vertical-align:middle;" headers="reading">
+  [Observational Studies and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/observational-studies-and-the-bootstrap-test.html)<br />
+  [External Validity Evidence and Random Sampling](https://zief0002.github.io/statistical-thinking/external-validity-evidence-and-random-sampling.html)
+</td>
+<td style="vertical-align:middle;" headers="activity">Murderous Nurse</td>
 </tr>
 
 
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">22</td>
 <td style="vertical-align:middle;" headers="date">Apr. 14</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="todo"></td>
-<td style="vertical-align:middle;" rowspan="2" headers="topic">Introduction to Linear Mixed-Effects Regression Models</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/08-logarithmic-transformations-predictor.html) -->
+<td style="vertical-align:middle;" headers="reading">
+  [Validity Evidence and Inferences](https://zief0002.github.io/statistical-thinking/validity-evidence-and-inferences.html)
 </td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/08-logarithmic-transformations-predictor.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/08-logarithmic-transformations-predictor.R) -->
-</td>
-</tr>
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td headers="date">Apr. 16</td>
+<td style="vertical-align:middle;" headers="activity">Movie Sequels</td>
 </tr>
 
 
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" headers="date">Apr. 21</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="todo"></td>
-<td style="vertical-align:middle;" rowspan="2" headers="topic">LMER: Average Change Over Time</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/08-logarithmic-transformations-predictor.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/08-logarithmic-transformations-predictor.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/08-logarithmic-transformations-predictor.R) -->
-</td>
+
+<tr style="background-color: #fffdc0">
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">23</td>
+<td style="vertical-align:middle;" headers="date">Apr. 16</td>
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="activity">**Group Quiz 4**</td>
 </tr>
 
+
+<!-- Unit 05: ESTIMATING UNCERTAINTY -->
+
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" headers="date">Apr. 23</td>
+<td style="height: 50px; vertical-align: bottom;" colspan="5" headers="blank day date reading activity">
+  **UNIT 05: ESTIMATING UNCERTAINTY**
+</td>
 </tr>
 
 
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" rowspan=2 headers="blank"></td>
+<td align="center" style="vertical-align:middle;" rowspan=2 headers="day">24</td>
+<td style="vertical-align:middle;" rowspan=2 headers="date">Apr. 21</td>
+<td style="vertical-align:middle;" rowspan=2 headers="reading"></td>
+<td style="background-color: #fffdc0" headers="activity">
+  <!-- **Individual Exam 4** [Closed] -->
+  [**Individual Exam 4**](https://docs.google.com/document/d/18tK0Ozi8ePfBewOAocbGYGTOdPq-cHeD/edit?usp=sharing&ouid=100796696879019680143&rtpof=true&sd=true) (due by 9:45am)
+</td>
+</tr>
+
+
+<tr>
+<td headers="activity">Kissing the 'Right' Way</td>
+</tr>
+
+
+<tr>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">25</td>
+<td style="vertical-align:middle;"  headers="date">Apr. 23</td>
+<td style="vertical-align:middle;" headers="reading">
+  [Estimating Uncertainty](https://zief0002.github.io/statistical-thinking/estimating-uncertainty.html)
+</td>
+<td style="vertical-align:middle;" headers="activity">Cuddling Preferences</td>
+</tr>
+
+
+<tr>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">26</td>
 <td style="vertical-align:middle;" headers="date">Apr. 28</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="todo"></td>
-<td style="vertical-align:middle;" rowspan="2" headers="topic">LMER: Other Random-Effects and Covariates</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/08-logarithmic-transformations-predictor.html) -->
+<td style="vertical-align:middle;" headers="reading">
+  [Uncertainty and Bias](https://zief0002.github.io/statistical-thinking/uncertainty-and-bias.html)
 </td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/08-logarithmic-transformations-predictor.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" rowspan="2" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/08-logarithmic-transformations-predictor.R) -->
-</td>
+<td style="vertical-align:middle;" headers="activity">[Minnesota College Debt](readings/mn-college-debt.pdf)</td>
 </tr>
 
+
 <tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">27</td>
 <td style="vertical-align:middle;" headers="date">Apr. 30</td>
-</tr>
-
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" headers="date">*Optional*</td>
-<td align="center" style="vertical-align:middle;" headers="todo"></td>
-<td style="vertical-align:middle;" headers="topic">LMER: Alternative Representations &amp; Assumptions</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/10-optional-linear-probability-model.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/10-optional-linear-probability-model.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/10-optional-linear-probability-model.R) -->
-</td>
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="activity">[Comparing Cuddling Preferences](readings/comparing-cuddling-preferences.pdf)</td>
 </tr>
 
 
-<tr>
-<td align="center" style="vertical-align:middle;" headers="blank">&nbsp;</td>
-<td style="vertical-align:middle;" headers="date">May 05</td>
-<td align="center" style="vertical-align:middle;" headers="todo"></td>
-<td style="vertical-align:middle;" headers="topic">Q&amp;A and Future Coursework</td>
-<td align="center" style="vertical-align:middle;" headers="notes">
-  <!-- [{{< iconify tabler:file-type-html size=30px >}}](notes/10-optional-linear-probability-model.html) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="qmd">
-   <!-- [{{< iconify simple-icons:quarto size=25px >}}](https://raw.githubusercontent.com/zief0002/fluffy-ants/main/notes/10-optional-linear-probability-model.qmd) -->
-</td>
-<td align="center" style="vertical-align:middle;" headers="script">
-  <!-- [{{< iconify file-icons:r size=30px >}}](scripts/10-optional-linear-probability-model.R) -->
+<tr style="background-color: #fffdc0">
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">28</td>
+<td style="vertical-align:middle;" headers="date">May. 05</td>
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="activity">**Group Quiz 5**</td>
+</tr>
+
+
+<tr style="background-color: #fffdc0">
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day"></td>
+<td style="vertical-align:middle;" colspan=3  headers="date reading activity">
+  <!-- **Individual Exam 5** (due by 12:00pm on May 05) [Closed]  -->
+  [**Individual Exam 5**](https://docs.google.com/document/d/1D4DjuC5YG7UO2NXJ4hm0Kzoax3PZ2kFr/edit?usp=sharing&ouid=100796696879019680143&rtpof=true&sd=true) (due by 12:00pm on May 07)
 </td>
 </tr>
 
