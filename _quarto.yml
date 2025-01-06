@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "data/"
+    - "files/"
+    - "handouts/"
+    - "readings/"
+    - "!admin/"
+    - "!archive/"
+    - "!answer-keys/"
+
+website:
+  title: "EPsy 3264"
+  navbar:
+    background: "#ADCAD6"
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Schedule"
+        file: schedule.qmd
+      # - sidebar:assignments
+      - text: "Grading"
+        file: grading.qmd
+      - text: "Class Policies"
+        file: class-policies.qmd
+      - text: "Instructor & TA"
+        file: instructor.qmd
+      - text: "University Policies"
+        file: umn-policies.qmd
+        
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - "assets/theme.scss"
+    css: ["assets/sticky-notes.css"]
+    header-includes: |
+      <script src="https://kit.fontawesome.com/e5da75ca36.js" crossorigin="anonymous"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    sidebar: false
+    mainfont: 'Atkinson Hyperlegible'
+    fontsize: '1.05em'
+    linestretch: '1.5em'
+    linkcolor: '#900021'
+    toc: true
+    toc-title: "On This Page"
+    
+
+
+  
