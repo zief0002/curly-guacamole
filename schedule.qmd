@@ -62,12 +62,10 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day">3</td>
 <td style="vertical-align:middle;" headers="date">Jan. 29</td>
-<td style="vertical-align:middle;">
+<td style="vertical-align:middle;" headers="reading">
   [Watch TinkerPlots&trade; Basics video](readings/03-learning-tp.html)
 </td>
-<td>
-  [Learning to Use TinkerPlots&trade;](assignments/00-learning-to-use-tinkerplots.html)
-</td>
+<td style="vertical-align:middle;" headers="activity">Learning to Use TinkerPlots&trade</td>
 </tr>
 
 
@@ -75,10 +73,10 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day">4</td>
 <td style="vertical-align:middle;" headers="date">Feb. 03</td>
-<td style="vertical-align:middle;">
+<td style="vertical-align:middle;" headers="reading">
   [Generating Data from Models](https://zief0002.github.io/statistical-thinking/generating-data-from-models.html)
 </td>
-<td style="vertical-align:middle;">Generating Random Data: Pet Factory</td>
+<td style="vertical-align:middle;" headers="activity">Generating Random Data: Pet Factory</td>
 </tr>
 
 
@@ -86,10 +84,10 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day">5</td>
 <td style="vertical-align:middle;" headers="date">Feb. 05</td>
-<td style="vertical-align:middle;">
+<td style="vertical-align:middle;" headers="reading">
   [Monte Carlo Simulation](https://zief0002.github.io/statistical-thinking/monte-carlo-simulation.html)
 </td>
-<td style="vertical-align:middle;">Introduction to Monte Carlo Simulation</td>
+<td style="vertical-align:middle;" headers="activity">Introduction to Monte Carlo Simulation</td>
 </tr>
 
 
@@ -97,16 +95,16 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day">6</td>
 <td style="vertical-align:middle;" headers="date">Feb. 10</td>
-<td style="vertical-align:middle;"></td>
-<td style="vertical-align:middle;">Automating the Simulation Process</td>
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="activity">Automating the Simulation Process</td>
 </tr>
 
 <tr style="background-color: #fffdc0;">
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day">7</td>
 <td style="vertical-align:middle;" headers="date">Feb. 12</td>
-<td style="vertical-align:middle;"></td>
-<td style="vertical-align:middle;">**Group Quiz 1**</td>
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="activity">**Group Quiz 1**</td>
 </tr>
 
 
@@ -185,7 +183,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day"></td>
 <td style="vertical-align:middle;"headers="date">Mar. 10.</td>
-<td align="center" style="vertical-align:middle;" colspan=2 headers="reading activity">NO CLASS---Spring Break 🎊 🛌 🎉 </td>
+<td style="vertical-align:middle;" colspan=2 headers="reading activity">NO CLASS---Spring Break 🎊 🛌 🎉 </td>
 </tr>
 
 
@@ -193,7 +191,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day"></td>
 <td style="vertical-align:middle;"headers="date">Mar. 12.</td>
-<td align="center" style="vertical-align:middle;" colspan=2 headers="reading activity">NO CLASS---Spring Break 🎊 🛌 🎉 </td>
+<td style="vertical-align:middle;" colspan=2 headers="reading activity">NO CLASS---Spring Break 🎊 🛌 🎉 </td>
 </tr>
 
 <!-- Unit 03: EXPERIMENTAL VARIATION AND THE RANDOMIZATION TEST -->
@@ -377,7 +375,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td style="vertical-align:middle;" headers="reading">
   [Uncertainty and Bias](https://zief0002.github.io/statistical-thinking/uncertainty-and-bias.html)
 </td>
-<td style="vertical-align:middle;" headers="activity">[Minnesota College Debt](readings/mn-college-debt.pdf)</td>
+<td style="vertical-align:middle;" headers="activity">Minnesota College Debt</td>
 </tr>
 
 
@@ -386,7 +384,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="day">27</td>
 <td style="vertical-align:middle;" headers="date">Apr. 30</td>
 <td style="vertical-align:middle;" headers="reading"></td>
-<td style="vertical-align:middle;" headers="activity">[Comparing Cuddling Preferences](readings/comparing-cuddling-preferences.pdf)</td>
+<td style="vertical-align:middle;" headers="activity">Comparing Cuddling Preferences</td>
 </tr>
 
 
