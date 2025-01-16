@@ -74,7 +74,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="day">4</td>
 <td style="vertical-align:middle;" headers="date">Feb. 03</td>
 <td style="vertical-align:middle;" headers="reading">
-  [Generating Data from Models](https://zief0002.github.io/statistical-thinking/03-generating-data-from-models.html)
+  [Generating Data from Models](https://zief0002.github.io/statistical-thinking/03-data-generation.html)
 </td>
 <td style="vertical-align:middle;" headers="activity">Generating Random Data: Pet Factory</td>
 </tr>
@@ -224,7 +224,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="day">15</td>
 <td style="vertical-align:middle;" headers="date">Mar. 19</td>
 <td style="vertical-align:middle;" headers="reading">
-  [Experimental Variation and the Randomization Test](https://zief0002.github.io/statistical-thinking/07-experimental-variation-and-the-randomization-test.html)
+  [Experimental Variation and the Randomization Test](https://zief0002.github.io/statistical-thinking/07-experimental-variation.html)
 </td>
 <td style="vertical-align:middle;" headers="activity">Memorization with TinkerPlots</td>
 </tr>
@@ -236,7 +236,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="day">16</td>
 <td style="vertical-align:middle;" headers="date">Mar. 24</td>
 <td style="vertical-align:middle;" headers="reading">
-  [Internal Validity Evidence and Random Assignment](https://zief0002.github.io/statistical-thinking/09-internal-validity-evidence-and-random-assignment.html)
+  [Internal Validity Evidence and Random Assignment](https://zief0002.github.io/statistical-thinking/09-internal-validity-evidence.html)
 </td>
 <td style="vertical-align:middle;" headers="activity">Sleep Deprivation</td>
 </tr>
@@ -247,7 +247,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="day">17</td>
 <td style="vertical-align:middle;" headers="date">Mar. 26</td>
 <td style="vertical-align:middle;" headers="reading">
-  [Quantifying Results: p-Value](https://zief0002.github.io/statistical-thinking/08-quantifying-results-p-value.html)
+  [Quantifying Results: p-Value](https://zief0002.github.io/statistical-thinking/08-p-value.html)
 </td>
 <td style="vertical-align:middle;" headers="activity">Contagious Yawns</td>
 </tr>
@@ -285,7 +285,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" rowspan=2 headers="day">20</td>
 <td style="vertical-align:middle;" rowspan=2 headers="date">Apr. 07</td>
 <td style="vertical-align:middle;" rowspan=2 headers="reading">
-  [Sampling Variation and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/10-sampling-variation-and-the-bootstrap-test.html)
+  [Sampling Variation and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/10-sampling-variation.html)
 </td>
 <td style="background-color: #fffdc0" headers="activity">
   <!-- **Individual Exam 3** [Closed]  -->
@@ -303,8 +303,8 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="day">21</td>
 <td style="vertical-align:middle;" headers="date">Apr. 09</td>
 <td style="vertical-align:middle;" headers="reading">
-  [Observational Studies and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/13-observational-studies-and-the-bootstrap-test.html)<br />
-  [External Validity Evidence and Random Sampling](https://zief0002.github.io/statistical-thinking/11-external-validity-evidence-and-random-sampling.html)
+  [Observational Studies and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/13-observational-studies.html)<br />
+  [External Validity Evidence and Random Sampling](https://zief0002.github.io/statistical-thinking/11-external-validity-evidence.html)
 </td>
 <td style="vertical-align:middle;" headers="activity">Murderous Nurse</td>
 </tr>
@@ -362,7 +362,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="day">25</td>
 <td style="vertical-align:middle;"  headers="date">Apr. 23</td>
 <td style="vertical-align:middle;" headers="reading">
-  [Estimating Uncertainty](https://zief0002.github.io/statistical-thinking/14-estimating-uncertainty.html)
+  [Estimating Uncertainty](https://zief0002.github.io/statistical-thinking/14-statistical-estimation.html)
 </td>
 <td style="vertical-align:middle;" headers="activity">Cuddling Preferences</td>
 </tr>
