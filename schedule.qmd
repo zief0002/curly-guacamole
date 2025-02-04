@@ -121,7 +121,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td style="vertical-align:middle;" rowspan=2 headers="reading"></td>
 <td style="vertical-align:middle; background-color: #fffdc0;" headers="activity">
 <!-- **Individual Exam 1** [Closed] -->
-  [**Individual Exam 1**](https://docs.google.com/document/d/14icSqhEzHSNtTJeVjrVlW2vpACiF1l6EQEcPMH3TuZo/edit?usp=sharing) (due by 9:45am)
+  [**Individual Exam 1**](https://docs.google.com/document/d/14icSqhEzHSNtTJeVjrVlW2vpACiF1l6EQEcPMH3TuZo/edit?usp=sharing) (due by 9:45am) <br /><br /> Submit Individual Exam 1 [here](https://docs.google.com/forms/d/e/1FAIpQLSdYNZNPrRZ1q8cFDfinFkjmly7Qw_XZnZkBcHJbzadv4R7bjw/viewform?usp=sharing).
 </td>
 </tr>
 
