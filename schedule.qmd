@@ -200,8 +200,10 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td style="vertical-align:middle;" headers="date">Mar. 17</td>
 <td style="vertical-align:middle;" headers="reading"></td>
 <td style="vertical-align:middle;" headers="activity">**Group Quiz 2**<br/><br />
-  **Individual Exam 2** [Closed]
-  <!-- [**Individual Exam 2**](https://docs.google.com/document/d/1VzlO26QeEjMdl-pEUr55OacpGAXrKJrR9lE08u-EEXc/edit?usp=sharing) (due by 9:45am)<br /> Submit Individual Exam 2 [here](https://forms.gle/a8v7eTZoyHhbSL7T9 ).</td> -->
+  <!-- **Individual Exam 2** [Closed] -->
+  [**Individual Exam 2**](https://docs.google.com/document/d/1VzlO26QeEjMdl-pEUr55OacpGAXrKJrR9lE08u-EEXc/edit?usp=sharing) (due by 9:45am)
+  <!-- <br /> Submit Individual Exam 2 [here](https://forms.gle/a8v7eTZoyHhbSL7T9 ). -->
+  </td>
 </tr>
 
 <!-- Unit 03: EXPERIMENTAL VARIATION AND THE RANDOMIZATION TEST -->
@@ -256,19 +258,19 @@ As part of the course, there may be articles, papers, etc. that you will need to
 </tr>
 
 
-<!-- <tr> -->
-<!-- <td align="center" style="vertical-align:middle;" headers="blank"></td> -->
-<!-- <td align="center" style="vertical-align:middle;" headers="day">18</td> -->
-<!-- <td style="vertical-align:middle;" headers="date">Mar. 31</td> -->
-<!-- <td style="vertical-align:middle;" headers="reading"></td> -->
-<!-- <td style="vertical-align:middle;" headers="acivity">Speed Skating</td> -->
-<!-- </tr> -->
+<tr>
+<td align="center" style="vertical-align:middle;" headers="blank"></td>
+<td align="center" style="vertical-align:middle;" headers="day">18</td>
+<td style="vertical-align:middle;" headers="date">Apr. 02</td>
+<td style="vertical-align:middle;" headers="reading"></td>
+<td style="vertical-align:middle;" headers="activity">[Swimming with Dolphins](files/swimming-with-dolphins-practice.pdf)</td>
+</tr>
 
 
 <tr style="background-color: #fffdc0">
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day">19</td>
-<td style="vertical-align:middle;" headers="date">Apr. 02</td>
+<td style="vertical-align:middle;" headers="date">Apr. 07</td>
 <td style="vertical-align:middle;" headers="reading"></td>
 <td style="vertical-align:middle;" headers="activity">**Group Quiz 3**</td>
 </tr>
@@ -286,7 +288,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <tr>
 <td align="center" style="vertical-align:middle;" rowspan=2 headers="blank"></td>
 <td align="center" style="vertical-align:middle;" rowspan=2 headers="day">20</td>
-<td style="vertical-align:middle;" rowspan=2 headers="date">Apr. 07</td>
+<td style="vertical-align:middle;" rowspan=2 headers="date">Apr. 09</td>
 <td style="vertical-align:middle;" rowspan=2 headers="reading">
   [Sampling Variation and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/10-sampling-variation.html)
 </td>
@@ -299,25 +301,25 @@ As part of the course, there may be articles, papers, etc. that you will need to
 
 
 <tr>
-<td headers="activity">Gettysburg Address</td>
+<td headers="activity">Murderous Nurse</td>
 </tr>
 
 <tr>
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day">21</td>
-<td style="vertical-align:middle;" headers="date">Apr. 09</td>
+<td style="vertical-align:middle;" headers="date">Apr. 14</td>
 <td style="vertical-align:middle;" headers="reading">
   [Observational Studies and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/13-observational-studies.html)<br />
   [External Validity Evidence and Random Sampling](https://zief0002.github.io/statistical-thinking/11-external-validity-evidence.html)
 </td>
-<td style="vertical-align:middle;" headers="activity">Murderous Nurse<br />Speed Skating</td>
+<td style="vertical-align:middle;" headers="activity">Speed Skating</td>
 </tr>
 
 
 <tr>
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day">22</td>
-<td style="vertical-align:middle;" headers="date">Apr. 14</td>
+<td style="vertical-align:middle;" headers="date">Apr. 16</td>
 <td style="vertical-align:middle;" headers="reading">
   [Validity Evidence and Inferences](https://zief0002.github.io/statistical-thinking/12-validity-evidence-and-inferences.html)
 </td>
@@ -326,13 +328,13 @@ As part of the course, there may be articles, papers, etc. that you will need to
 
 
 
-<tr style="background-color: #fffdc0">
-<td align="center" style="vertical-align:middle;" headers="blank"></td>
-<td align="center" style="vertical-align:middle;" headers="day">23</td>
-<td style="vertical-align:middle;" headers="date">Apr. 16</td>
-<td style="vertical-align:middle;" headers="reading"></td>
-<td style="vertical-align:middle;" headers="activity">**Group Quiz 4**</td>
-</tr>
+<!-- <tr style="background-color: #fffdc0"> -->
+<!-- <td align="center" style="vertical-align:middle;" headers="blank"></td> -->
+<!-- <td align="center" style="vertical-align:middle;" headers="day">23</td> -->
+<!-- <td style="vertical-align:middle;" headers="date">Apr. 16</td> -->
+<!-- <td style="vertical-align:middle;" headers="reading"></td> -->
+<!-- <td style="vertical-align:middle;" headers="activity">**Group Quiz 4**</td> -->
+<!-- </tr> -->
 
 
 <!-- Unit 05: ESTIMATING UNCERTAINTY -->
@@ -351,7 +353,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td style="vertical-align:middle;" rowspan=2 headers="reading"></td>
 <td style="background-color: #fffdc0" headers="activity">
   <!-- **Individual Exam 4** [Closed] -->
-  [**Individual Exam 4**](https://docs.google.com/document/d/18tK0Ozi8ePfBewOAocbGYGTOdPq-cHeD/edit?usp=sharing&ouid=100796696879019680143&rtpof=true&sd=true) (due by 9:45am)
+  [**OPTIONAL: Individual Exam 4**](https://docs.google.com/document/d/18tK0Ozi8ePfBewOAocbGYGTOdPq-cHeD/edit?usp=sharing&ouid=100796696879019680143&rtpof=true&sd=true) (due by 9:45am)
 </td>
 </tr>
 
