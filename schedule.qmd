@@ -293,9 +293,9 @@ As part of the course, there may be articles, papers, etc. that you will need to
   [Sampling Variation and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/10-sampling-variation.html)
 </td>
 <td style="background-color: #fffdc0" headers="activity">
-  <!-- **Individual Exam 3** [Closed]  -->
- [**Individual Exam 3**](https://docs.google.com/document/d/11YlNAgR1mrss81v5YEJcozwdaF46cRil/edit?usp=sharing&ouid=100796696879019680143&rtpof=true&sd=true) (due by 9:45am)<br /> 
- Submit Individual Exam 3 [here](https://forms.gle/wiuZDUfPBwCubFsK7).
+  **Individual Exam 3** [Closed]
+ <!-- [**Individual Exam 3**](https://docs.google.com/document/d/11YlNAgR1mrss81v5YEJcozwdaF46cRil/edit?usp=sharing&ouid=100796696879019680143&rtpof=true&sd=true) (due by 9:45am)<br />  -->
+ <!-- Submit Individual Exam 3 [here](https://forms.gle/wiuZDUfPBwCubFsK7). -->
 </td>
 </tr>
 
@@ -354,6 +354,7 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td style="background-color: #fffdc0" headers="activity">
   <!-- **Individual Exam 4** [Closed] -->
   [**OPTIONAL: Individual Exam 4**](https://docs.google.com/document/d/18tK0Ozi8ePfBewOAocbGYGTOdPq-cHeD/edit?usp=sharing&ouid=100796696879019680143&rtpof=true&sd=true) (due by 9:45am)
+   <br /> Submit Individual Exam 4 [here](https://forms.gle/9tqmTChwh5Ft4BUM9).
 </td>
 </tr>
 
