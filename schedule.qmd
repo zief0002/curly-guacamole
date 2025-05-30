@@ -408,9 +408,9 @@ As part of the course, there may be articles, papers, etc. that you will need to
 <td align="center" style="vertical-align:middle;" headers="blank"></td>
 <td align="center" style="vertical-align:middle;" headers="day"></td>
 <td style="vertical-align:middle;" colspan=3  headers="date reading activity">
-  <!-- **Individual Exam 5** (due by 12:00pm on May 05) [Closed]  -->
-  [**Individual Exam 5**](https://docs.google.com/document/d/1D4DjuC5YG7UO2NXJ4hm0Kzoax3PZ2kFr/edit?usp=sharing&ouid=100796696879019680143&rtpof=true&sd=true) (due by 12:00pm on May 07)
-  <br /> Submit Individual Exam 5 [here](https://forms.gle/N4kWfvmGPn3VT9yM8)
+  **Individual Exam 5** (due by 12:00pm on May 05) [Closed]
+  <!-- [**Individual Exam 5**](https://docs.google.com/document/d/1D4DjuC5YG7UO2NXJ4hm0Kzoax3PZ2kFr/edit?usp=sharing&ouid=100796696879019680143&rtpof=true&sd=true) (due by 12:00pm on May 07) -->
+  <!-- <br /> Submit Individual Exam 5 [here](https://forms.gle/N4kWfvmGPn3VT9yM8) -->
 </td>
 </tr>
 
